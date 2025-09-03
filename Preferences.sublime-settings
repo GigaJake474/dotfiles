@@ -1,0 +1,17 @@
+{
+  "ignored_packages": [
+    "Vintage",
+  ],
+  "index_files": true,
+  "font_size": 20,  "font_face": "Fira Code",
+  "font_options": ["liga"],        // Enables ligatures (the silk of fonts)
+  "save_on_focus_lost": true,
+  "highlight_line": true,
+  "caret_style": "smooth_phase",
+  "line_padding_top": 15,
+  "line_padding_bottom": 15,
+  "theme": "Adaptive.sublime-theme",
+  "fade_fold_buttons": false,
+  "caret_extra_width": 2,
+  "scroll_past_end": true,
+}
